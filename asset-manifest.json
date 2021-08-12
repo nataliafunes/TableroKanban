@@ -1,0 +1,27 @@
+{
+  "files": {
+    "app.js": "/nataliafunes/Tablero.git/static/js/app.b3f4d19b.chunk.js",
+    "app.js.map": "/nataliafunes/Tablero.git/static/js/app.b3f4d19b.chunk.js.map",
+    "main.css": "/nataliafunes/Tablero.git/static/css/main.bd78085c.chunk.css",
+    "main.js": "/nataliafunes/Tablero.git/static/js/main.02f78493.chunk.js",
+    "main.js.map": "/nataliafunes/Tablero.git/static/js/main.02f78493.chunk.js.map",
+    "runtime-main.js": "/nataliafunes/Tablero.git/static/js/runtime-main.c43a6c4c.js",
+    "runtime-main.js.map": "/nataliafunes/Tablero.git/static/js/runtime-main.c43a6c4c.js.map",
+    "static/css/3.983f79de.chunk.css": "/nataliafunes/Tablero.git/static/css/3.983f79de.chunk.css",
+    "static/js/3.b34ea4eb.chunk.js": "/nataliafunes/Tablero.git/static/js/3.b34ea4eb.chunk.js",
+    "static/js/3.b34ea4eb.chunk.js.map": "/nataliafunes/Tablero.git/static/js/3.b34ea4eb.chunk.js.map",
+    "static/js/4.380cb118.chunk.js": "/nataliafunes/Tablero.git/static/js/4.380cb118.chunk.js",
+    "static/js/4.380cb118.chunk.js.map": "/nataliafunes/Tablero.git/static/js/4.380cb118.chunk.js.map",
+    "index.html": "/nataliafunes/Tablero.git/index.html",
+    "static/css/3.983f79de.chunk.css.map": "/nataliafunes/Tablero.git/static/css/3.983f79de.chunk.css.map",
+    "static/css/main.bd78085c.chunk.css.map": "/nataliafunes/Tablero.git/static/css/main.bd78085c.chunk.css.map",
+    "static/js/3.b34ea4eb.chunk.js.LICENSE.txt": "/nataliafunes/Tablero.git/static/js/3.b34ea4eb.chunk.js.LICENSE.txt",
+    "static/js/4.380cb118.chunk.js.LICENSE.txt": "/nataliafunes/Tablero.git/static/js/4.380cb118.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c43a6c4c.js",
+    "static/js/4.380cb118.chunk.js",
+    "static/css/main.bd78085c.chunk.css",
+    "static/js/main.02f78493.chunk.js"
+  ]
+}
